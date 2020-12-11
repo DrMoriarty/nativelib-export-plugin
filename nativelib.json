@@ -1,0 +1,9 @@
+{
+  "name": "nativelib-export-plugin",
+  "description": "Common NativeLib export plugin for processing binary resources for iOS/Android",
+  "version": "0.1.0",
+  "dependencies": [],
+  "files": {
+    "plugin": "addons/nativelib-export"
+  }
+}
