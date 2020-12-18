@@ -2,6 +2,8 @@
   "name": "nativelib-export-plugin",
   "description": "Common NativeLib export plugin for processing binary resources for iOS/Android",
   "version": "0.1.0",
+  "license": "MIT",
+  "url": "https://github.com/DrMoriarty/nativelib-export-plugin.git",
   "dependencies": [],
   "files": {
     "plugin": "addons/nativelib-export"
