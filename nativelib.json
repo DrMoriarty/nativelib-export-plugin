@@ -1,5 +1,5 @@
 {
-  "name": "nativelib-export-plugin",
+  "name": "nativelib-export",
   "description": "Common NativeLib export plugin for processing binary resources for iOS/Android",
   "version": "0.1.0",
   "license": "MIT",
