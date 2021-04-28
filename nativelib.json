@@ -1,10 +1,17 @@
 {
   "name": "nativelib-export",
+  "display_name": "NativeLib Export",
   "description": "Common NativeLib export plugin for processing binary resources for iOS/Android",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
+  "godot_version": "3.3.0",
+  "category": "misc",
   "url": "https://github.com/DrMoriarty/nativelib-export-plugin.git",
-  "dependencies": [],
+  "author": {
+    "name": "DrMoriarty",
+    "url": "https://github.com/DrMoriarty",
+    "donate": "https://ko-fi.com/drmoriarty"
+  },
   "files": {
     "plugin": "addons/nativelib-export"
   }
